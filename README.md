@@ -36,8 +36,7 @@ The dashboard helps track financial performance, analyze spending trends, and sh
 
 ## Screenshots
 
-![Dashboard Overview](<img width="2218" height="1227" alt="Screenshot 2025-12-24 183424" src="https://github.com/user-attachments/assets/abedc1e5-3d44-4fca-810e-a18f93648d85" />
-)
+![Dashboard Overview]("C:\Users\ACER\Pictures\Screenshots\Screenshot 2025-12-24 183424.png")
 
 
 ---
